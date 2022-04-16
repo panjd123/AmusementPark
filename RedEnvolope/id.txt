@@ -1,0 +1,15 @@
+d5z:紧急冻结:g6c
+cns:通讯录:f30
+d5v:切换验证方式:g66
+f40:用密码登录/用xx登录:iwl
+a5u:用xx登录父节点:ahh
+bhn:输入框:cd6
+d5n:登录按钮:g5v
+al7:多媒体类信息:b47
+ra:"微信红包":y4
+r0:"已领取":xs
+den:开:gix
+d_h:金额:gcq
+dm:返回按钮:k6t
+dem:红包x:giw
+rr:会话返回:fz

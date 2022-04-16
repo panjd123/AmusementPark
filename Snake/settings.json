@@ -1,0 +1,1 @@
+{"screen_width": 400, "screen_height": 400, "col": 15, "row": 15, "bg_color": [200, 200, 200], "snake_color": [100, 100, 100], "head_color": [0, 0, 0], "food_color": [255, 245, 225], "cell_color": [0, 180, 100], "snake_speed": 20, "cell_width": 26.666666666666668, "cell_height": 26.666666666666668, "screen_size": [400, 400], "search_area": 1000000}
