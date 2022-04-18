@@ -42,3 +42,9 @@ python+request 人大墙爬虫
 ### Origami_Baishu：大一下期中
 
 python+request 折纸的白叔折纸教程爬虫
+
+### Dino_with_hand
+
+python+mediapipe 摄像头检测手势玩 Chrome 的断网小恐龙
+
+调包侠（雾）
