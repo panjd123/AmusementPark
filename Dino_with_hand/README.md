@@ -2,7 +2,7 @@
 
 手势控制玩 Chrome 断网小恐龙
 
-跑 google 的开源项目 mediapipe 时顺手做的，借鉴了 [lzane](https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python) 的创意
+跑 google 的开源项目 [mediapipe](https://github.com/google/mediapipe) 时顺手做的，借鉴了 [lzane](https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python) 的创意
 
 ## 判断函数
 
