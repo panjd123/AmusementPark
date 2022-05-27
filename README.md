@@ -48,3 +48,7 @@ python+request 折纸的白叔折纸教程爬虫
 python+mediapipe 摄像头检测手势玩 Chrome 的断网小恐龙
 
 调包侠（雾）
+
+### Beijing Map
+
+北京疫情地图
